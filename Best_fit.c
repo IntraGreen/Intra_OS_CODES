@@ -1,3 +1,4 @@
+//Created by IntraderAmit
 #include<stdio.h>
 #define max 25
 
